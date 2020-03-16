@@ -1,0 +1,20 @@
+body {
+  width: 150px;
+  margin: 0px;
+}
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0;
+}
+ul li {
+  border-top: 1px solid #eee;
+  padding: 8px;
+}

@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Covid-19 Brazil Tracker",
+  "description": "Track Covid-19 cases in Brazil from Chrome extensions",
+  "version": "1.0",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png"
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  },
+  "permissions": ["alarms", "activeTab", "https://api.coronaanalytic.com/brazil"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  }
+}
