@@ -12,6 +12,8 @@ The project is using the [corona-analytic-api](https://github.com/rodrilima/coro
 
 ## Installing
 
+This extension is currently under review by the Chrome Web Store. Meanwhile, you can install it following the steps below:
+
 - [Download](https://github.com/emersonlaurentino/covid-19braziltracker/archive/master.zip) our source code
 - Unzip the downloaded folder
 - In Chrome, access the [Extensions](chrome://extensions) page and toggle **Developer Mode** on
